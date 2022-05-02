@@ -57,7 +57,7 @@
 }
 
 .rentalDivH {
-    animation: mymove 3s;
+    animation: mymove 4s;
     border-radius: 20px;
     display: flex;
     justify-content: start;
@@ -65,7 +65,7 @@
 
 
 @keyframes mymove {
-    from {background-color: #dddddd;}
+    from {background-color: #eee;}
     to {background-color: #dddddd00;}
   }
 .rentalImg {
